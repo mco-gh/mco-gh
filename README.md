@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Marc
 
-- 💻 I’m currently working on: RIFF apps (Cloud Run, IDX, Flutter, Firestore), Zoe health, and speaking out against the Israeli apartheid
-- 🌱 I’m currently learning: guitar and Spanish
+- 💻 I’m currently working on: RIFF apps (Cloud Run, IDX, Flutter, Firestore)
+- 🌱 I’m currently learning: guitar, health improvement, and Spanish
+- 🇵🇸 I'm passionate about: stopping the Gaza genocide and boycotting Israeli apartheid
 - ✏️ My blog: [mco.dev](https://mco.dev)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mco-dev/)
 - 😄 Pronouns: he/him
