@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Marc
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 - 💻 I’m currently working on: RIFF apps (Cloud **R**un, **I**DX, **F**lutter, **F**irestore)
 - 🌱 I’m currently learning: guitar, health improvement, and Spanish
