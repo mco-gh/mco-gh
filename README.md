@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Marc
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 - 💻 I’m currently working on: Buidling apps with AI and replit.com
 - 🌱 I’m currently learning: guitar, chess, and bridge
