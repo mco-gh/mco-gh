@@ -4,5 +4,5 @@
 - 🎸 I’m currently learning: guitar
 - 🇵🇸 I'm passionate about: ending Israeli apartheid
 - ✏️ My blog: [mco.dev](https://mco.dev)
-- 📫 How to reach me: [marc@mco.dev](email:marc@mco.dev)
+- 📫 How to reach me: marc AT mco.dev
 - ⚡ Fun fact: I love puzzles
